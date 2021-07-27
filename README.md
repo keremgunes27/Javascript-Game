@@ -12,16 +12,16 @@ Design will be made in accordance with different screen resolutions.<br/><br/>
 
 ## Screenshots
 
-!["rules"](./assets/design/rules.png)
+!["rules"](./assets/design/rules.PNG)
 <br/>
 <br/>
-!["step-1"](./assets/design/step-1.png)
+!["step-1"](./assets/design/step-1.PNG)
 <br/>
 <br/>
-!["step-2"](./assets/design/step-2.png)
+!["step-2"](./assets/design/step-2.PNG)
 <br/>
 <br/>
-!["step-3"](./assets/design/step-3.png)
+!["step-3"](./assets/design/step-3.PNG)
 
 ## TO DO LİST
 
